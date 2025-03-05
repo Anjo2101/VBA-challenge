@@ -57,7 +57,7 @@ print(output)
 #Write the results to a text file
 with open(file_to_output, "w") as txt_file:
     txt_file.write(output)
-10:24
+
 # Import necessary modules
 import csv
 import os
